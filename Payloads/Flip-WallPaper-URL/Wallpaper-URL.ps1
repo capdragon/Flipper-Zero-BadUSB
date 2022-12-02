@@ -1,4 +1,4 @@
-$url = "WALLPAPER URL HERE"
+$url = "https://live.staticflickr.com/8786/17090130858_e6a289dd2b_o_d.jpg"
 
 $ext = $url.split(".")[-1]
 
